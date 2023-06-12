@@ -1,0 +1,204 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How to change language in my coursera account",
+                            "id": 1107,
+                            "answers": [
+                                {
+                                    "answer_id": 1114,
+                                    "document_id": 11,
+                                    "question_id": 1107,
+                                    "text": "How to change your language\n\nTo change your language:\n\nLog in to  coursera.org . Click your name in the top-right, then select  Settingsaccount settings Click the dropdown menu under  Language , and select the language you'd like to see displayed. In the  Account  section, click the drop-down menu under  Language . Select the language you want to use for your account, then click  Save . Refresh the page or visit a new page to see the language update.",
+                                    "answer_start": 441,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "What languages are supported in coursera",
+                            "id": 65,
+                            "answers": [
+                                {
+                                    "answer_id": 64,
+                                    "document_id": 11,
+                                    "question_id": 65,
+                                    "text": "We currently support these languages:\n\nEnglish German Spanish French Japanese Korean Portuguese (Brazilian) Russian Chinese (traditional and simplified) Arabic (see below for more details)",
+                                    "answer_start": 321,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Are right-to-left languages supported in coursera",
+                            "id": 66,
+                            "answers": [
+                                {
+                                    "answer_id": 65,
+                                    "document_id": 11,
+                                    "question_id": 66,
+                                    "text": "Support for right-to-left language display\n\nWe currently support a right-to-left display in Arabic for learners taking courses",
+                                    "answer_start": 511,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "What right-to-left languages are supported in coursera",
+                            "id": 67,
+                            "answers": [
+                                {
+                                    "answer_id": 66,
+                                    "document_id": 11,
+                                    "question_id": 67,
+                                    "text": "We currently support a right-to-left display in Arabic for learners taking courses",
+                                    "answer_start": 555,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "What languages are supported in coursera",
+                            "id": 65,
+                            "answers": [
+                                {
+                                    "answer_id": 64,
+                                    "document_id": 11,
+                                    "question_id": 65,
+                                    "text": "We currently support these languages:\n\nEnglish German Spanish French Japanese Korean Portuguese (Brazilian) Russian Chinese (traditional and simplified) Arabic (see below for more details)",
+                                    "answer_start": 321,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Are right-to-left languages supported in coursera",
+                            "id": 66,
+                            "answers": [
+                                {
+                                    "answer_id": 65,
+                                    "document_id": 11,
+                                    "question_id": 66,
+                                    "text": "Support for right-to-left language display\n\nWe currently support a right-to-left display in Arabic for learners taking courses",
+                                    "answer_start": 511,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "What right-to-left languages are supported in coursera",
+                            "id": 67,
+                            "answers": [
+                                {
+                                    "answer_id": 66,
+                                    "document_id": 11,
+                                    "question_id": 67,
+                                    "text": "We currently support a right-to-left display in Arabic for learners taking courses",
+                                    "answer_start": 555,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "You can adjust the language of your Coursera account in your  account settings . This affects text on your homepage and system text in courses you take. Course content will always appear in the language that it was written.\n\nNote:  Some courses are fully translated into multiple languages and we support  translated subtitles  on course videos. Guided Projects are only available in the language they were created in and aren't subtitled.\n\nHow to change your language\n\nTo change your language:\n\nLog in to  coursera.org . Click your name in the top-right, then select  Settings  to open your account settings Click the dropdown menu under  Language , and select the language you'd like to see displayed. In the  Account  section, click the drop-down menu under  Language . Select the language you want to use for your account, then click  Save . Refresh the page or visit a new page to see the language update.\n\nWe currently support these languages:\n\nEnglish German Spanish French Japanese Korean Portuguese (Brazilian) Russian Chinese (traditional and simplified) Arabic (see below for more details)\n\nSupport for right-to-left language display\n\nWe currently support a right-to-left display in Arabic for learners taking courses via",
+                    "document_id": 11
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Do paid courses have unlimited access",
+                            "id": 1108,
+                            "answers": [
+                                {
+                                    "answer_id": 1115,
+                                    "document_id": 39,
+                                    "question_id": 1108,
+                                    "text": "to the free version of the course, which includes downloading videos and transcripts.After completing a paid course, you won't have access to the course's paid content after that payment expires. You'll retain access",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "How to check all enrolled courses",
+                            "id": 134,
+                            "answers": [
+                                {
+                                    "answer_id": 130,
+                                    "document_id": 39,
+                                    "question_id": 134,
+                                    "text": "Once you're enrolled in a course, you'll see it on your  Coursera home page  while logged in. Click  In Progress  or  Completed  to see all of the courses in those categories.",
+                                    "answer_start": 28,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Why are all courses in specialization shown",
+                            "id": 135,
+                            "answers": [
+                                {
+                                    "answer_id": 131,
+                                    "document_id": 39,
+                                    "question_id": 135,
+                                    "text": "If you enroll in a paid option for any course in a  Specialization , you'll see all courses in the  Specialization  on your Coursera home page even if you haven't enrolled in or paid for them.",
+                                    "answer_start": 205,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "How to check all enrolled courses",
+                            "id": 134,
+                            "answers": [
+                                {
+                                    "answer_id": 130,
+                                    "document_id": 39,
+                                    "question_id": 134,
+                                    "text": "Once you're enrolled in a course, you'll see it on your  Coursera home page  while logged in. Click  In Progress  or  Completed  to see all of the courses in those categories.",
+                                    "answer_start": 28,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Why are all courses in specialization shown",
+                            "id": 135,
+                            "answers": [
+                                {
+                                    "answer_id": 131,
+                                    "document_id": 39,
+                                    "question_id": 135,
+                                    "text": "If you enroll in a paid option for any course in a  Specialization , you'll see all courses in the  Specialization  on your Coursera home page even if you haven't enrolled in or paid for them.",
+                                    "answer_start": 205,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "to the free version of the course, which includes downloading videos and transcripts.\n\nAfter completing a free course, you'll have access to the same course content that you did during the course.\n\nRetake a course\n\nIf you need to retake a course, any progress you've made carries over. You can't reset progress in a course, but some quizzes and assignments will allow you to retake them. We'll save your highest grade.\n\nIf you have an issue with a grade on an assignment you can't retake, reach out to your instructor to request an override.courses you're enrolled in\n\nOnce you're enrolled in a course, you'll see it on your  Coursera home page  while logged in. Click  In Progress  or  Completed  to see all of the courses in those categories.\n\nIf you enroll in a paid option for any course in a  Specialization , you'll see all courses in the  Specialization  on your Coursera home page even if you haven't enrolled in or paid for them.\n\nCompleting a course\n\nAfter completing a paid course, you won't have access to the course's paid content after that payment expires. You'll retain access",
+                    "document_id": 39
+                }
+            ]
+        }
+    ]
+}
